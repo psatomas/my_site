@@ -3,31 +3,31 @@ from datetime import date
 
 all_posts = [
     {
-        "slug": "hike-in-the-mountains",
+        "slug": "weekend-in-the-fields",
         "image": "field.jpg",
         "author": "Tomas",
         "date": date(2024, 7, 15),
-        "title": "Hike in the Mountains",
-        "excerpt": "A wonderful hike in the mountains.",
-        "content": "Full content of the hike in the mountains post."
+        "title": "Weekend in the Fields",
+        "excerpt": "A wonderful weekend spent in the countryside, where I reconnected with nature with my family.",
+        "content": "Full content of the field post."
     },
     {
-        "slug": "beach-adventure",
+        "slug": "boat-ride",
         "image": "boat.jpg",
         "author": "Tomas",
         "date": date(2023, 7, 15),
-        "title": "Beach Adventure",
-        "excerpt": "An exciting adventure at the beach.",
-        "content": "Full content of the beach adventure post."
+        "title": "Boat Ride",
+        "excerpt": "An exciting adventure at the beach where I enjoyed a boat ride with which I explored the sea.",
+        "content": "Full content of the boat adventure post."
     },
     {
-        "slug": "city-exploration",
+        "slug": "tour-in-jungle",
         "image": "jungle.jpg",
         "author": "Tomas",
         "date": date(2022, 7, 15),
-        "title": "City Exploration",
-        "excerpt": "Exploring the vibrant city life.",
-        "content": "Full content of the city exploration post."
+        "title": "Tour in Jungle",
+        "excerpt": "Exploring the vibrant flora and fauna of the jungle, beatutiful experience!",
+        "content": "Full content of the jungle exploration post."
     }
 ]
 
