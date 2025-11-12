@@ -4,7 +4,7 @@ from datetime import date
 all_posts = [
     {
         "slug": "hike-in-the-mountains",
-        "image": "mountain.jpg",
+        "image": "field.jpg",
         "author": "Tomas",
         "date": date(2024, 7, 15),
         "title": "Hike in the Mountains",
@@ -13,7 +13,7 @@ all_posts = [
     },
     {
         "slug": "beach-adventure",
-        "image": "beach.jpg",
+        "image": "boat.jpg",
         "author": "Tomas",
         "date": date(2023, 7, 15),
         "title": "Beach Adventure",
@@ -22,7 +22,7 @@ all_posts = [
     },
     {
         "slug": "city-exploration",
-        "image": "city.jpg",
+        "image": "jungle.jpg",
         "author": "Tomas",
         "date": date(2022, 7, 15),
         "title": "City Exploration",
